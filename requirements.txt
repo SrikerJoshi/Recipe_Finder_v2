@@ -1,0 +1,10 @@
+streamlit
+requests
+pillow
+langchain-google-genai
+langchain-community
+python-dotenv
+aiohttp
+asyncio
+google-api-python-client
+ipinfo
