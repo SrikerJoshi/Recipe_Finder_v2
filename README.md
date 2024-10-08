@@ -1,4 +1,4 @@
-# ML-project-2
+# Recipe_Finder_v2
 
 ## Project Description
 
@@ -9,8 +9,8 @@ This project implements a chatbot interface that provides detailed recipes with 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SrikerJoshi/ML-project-2.git
-   cd ML-project-2
+   git clone https://github.com/SrikerJoshi/Recipe_Finder_v2.git
+   cd Recipe_Finder_v2
    ```
 
 2. Create a virtual environment and activate it:
@@ -71,22 +71,15 @@ This project implements a chatbot interface that provides detailed recipes with 
 
 ## Hosting Instructions
 
-To host this app, you can use Streamlit sharing or other hosting platforms. Here are the steps to host the app using Streamlit sharing:
+To host this app, you can use Streamlit Cloud or other hosting platforms. Here are the steps to host the app using Streamlight cloud:
 
-1. Create a `Procfile` in the project root directory and add the following line:
-   ```bash
-   web: streamlit run app.py
-   ```
+1. Create a streamlet profile and connect click on Create an app and link your GitHub repository to the app.
 
 2. Ensure all dependencies are listed in the `requirements.txt` file.
 
-3. Push your code to a GitHub repository.
+3. change the settings in streamlet app to be able to make the URL public for others to use the app.
 
-4. Go to [Streamlit sharing](https://streamlit.io/sharing) and sign in with your GitHub account.
-
-5. Click on "New app" and select the repository and branch where your code is located.
-
-6. Click on "Deploy" to deploy your app.
+4. Go to the app URL to start using the app.
 
 ## Hosting Instructions
 
